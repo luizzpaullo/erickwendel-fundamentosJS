@@ -68,3 +68,13 @@ pessoa.idade = 17
 console.log(pessoa.podeDirigir)
 
 ```
+
+
+## DATA
+
+```JSX
+
+// Formato GLOBAL recomendado!
+console.log(hoje.toISOString())
+```
+
